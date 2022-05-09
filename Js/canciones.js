@@ -7,7 +7,7 @@ const preguntas = [
     },
 
     {
-        pregunta: "Que significa 'The elephant in the room",
+        pregunta: "",
         respuestas: ["un objeto de gran tamano en un espacio muy pequeño", "una habitación grande donde caben todos", "Un problema que todos ven pero evitan", "no significa nada"],
         correcta: 2
     },
