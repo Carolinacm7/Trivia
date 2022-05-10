@@ -5,14 +5,14 @@ const preguntas = [
       correcta: 3
     },
     {
-      pregunta: "Un dicho equivalente a 'All mouth and no trousers.' es",
-      respuestas: ["Zootopia","Mucho ruido y pocas nueces", "Soul", "Up:una aventura de altura"],
-      correcta: 1
+      pregunta: "Tu chispa no es tu propósito. La última casilla se llena cuando estás listo para vivir",
+      respuestas: ["Zootopia","La bella y la bestia", "Soul", "Up:una aventura de altura"],
+      correcta: 2
     },
     {
-      pregunta: "Un dicho equivalente a 'Any port in a storm.' es",
-      respuestas: ["Después de la tormenta viene la calma", "A buen hambre, no hay pan duro.", "Más vale pajaro en mano que cien volando", "Vale más una imagen que mil palabras."],
-      correcta: 1
+      pregunta: "Hace mucho tiempo, el mundo estaba lleno de maravillas. Fue aventurero. Fue emocionante. Y, sobre todo, había magia.",
+      respuestas: ["Unidos (Onward)", "Aladin", "Desendientes", "Narnia"],
+      correcta: 0
     }
   ];
   
