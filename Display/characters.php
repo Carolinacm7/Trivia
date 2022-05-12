@@ -16,7 +16,7 @@
       Continuar
     </button>
   </div>
-    <script type="text/javascript" src="../Js/characters.js"> </script>
+    <script type="text/javascript" src="../js/characters.js"> </script>
 </body>
 
 </html>

@@ -22,7 +22,7 @@
         </div> 
     </div>
         
-<script type= "text/javascript" src="../js/categorias.js"> 
+<script type= "text/javascript" src="../js/categories.js"> 
 </script> 
 
 </body>

@@ -16,7 +16,7 @@
     <div id="pregunta" class="song"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
   </div>
-    <script type="text/javascript" src="../Js/songs.js"> </script>
+    <script type="text/javascript" src="../js/songs.js"> </script>
 </body>
 
 </html>

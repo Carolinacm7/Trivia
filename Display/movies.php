@@ -19,7 +19,7 @@
     <div id="pregunta" class="peliculas"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
   </div>
-    <script type="text/javascript" src="../Js/movies.js"> </script>
+    <script type="text/javascript" src="../js/movies.js"> </script>
 </body>
 
 </html>

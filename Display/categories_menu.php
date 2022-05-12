@@ -25,7 +25,7 @@
         </div> 
     </div>
         
-<script type= "text/javascript" src="../Js/categories.js"> 
+<script type= "text/javascript" src="../js/categories.js"> 
 </script> 
 </body>
 </html>

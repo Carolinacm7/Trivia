@@ -26,7 +26,7 @@
       <img class="imgDecoracion" src="../resources/img/ginius-back.png">
   </div>
 
-  <script type="text/javascript" src="../Js/result.js">
+  <script type="text/javascript" src="../js/result.js">
   </script>
 
 </body>
