@@ -57,9 +57,7 @@ body {
   width: 50%
 }
 
-.container {
-  padding: 50px 10px 0;
-}
+.container {padding: 50px 10px 0;}
 
 .input {
   border-radius: 5px;
@@ -156,9 +154,7 @@ input {
   margin: 10px 0;
 }
 
-.imgDecoracion {
-  width:180px;
-}
+.imgDecoracion { width:180px;}
 
 .puntajeTitulo {
   color:  var(--color-primary);
@@ -198,9 +194,7 @@ header {
 	
 }
  
-nav {
-	float: right;
-}
+nav {float: right;}
  
 nav ul li {
 	display: inline-block;
@@ -231,6 +225,4 @@ footer {
 	width: 100%;
 }
  
-footer p {
-	text-align:center;
-}
+footer p {text-align:center;}
