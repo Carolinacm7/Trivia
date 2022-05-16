@@ -25,6 +25,9 @@ a {
 
 body {
   background-image: url(./resources/img/star-back.png);
+  background-repeat: no-repeat;
+  background-size: 1118px 576px;
+  background-position: center;
   font-family:var(--font-family);
   font-size: 2rem;
   text-align: center;
