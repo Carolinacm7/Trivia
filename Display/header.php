@@ -9,9 +9,6 @@
   <body>
 <header>
 		<div class="wrapp">
-			<div class="logo">
-				<a href="#"><img src="./resources/img/logo-disney.png" alt="Trivia-Disney"></a>
-			</div>
 			<nav>
 				<ul>
 					<li><a href="./index.php">Inicio</a></li>
