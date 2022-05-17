@@ -5,7 +5,7 @@
   <div class="container">
     <h1 class="titulo">¡¡Hola!! Soy el Genio y me gustaria saber que tanto sabes del mundo magico</h1>
     <img class="logo" src="./resources/img/logo-disney.png" alt="logo-disney">
-    <p class="pregunta">¿Que tanto sabes de Disney ? <br>
+    <p class="pregunta titulo">¿Que tanto sabes de Disney ? <br>
       PONTE A PRUEBA...
     </p>
 
