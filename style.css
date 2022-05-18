@@ -139,24 +139,25 @@ width: inherit;
   display: flex;
   flex-wrap: wrap;
   margin-top: 20px;
+  justify-content: center;
 }
 
 .boton {
   border-radius: 10px;
   border: 1px solid var(--color-primary);
-  display: flex;
   font-size: 1rem;
   font-weight: 800;
-  margin: 10px auto;
+  margin: 13px 10px;
   padding: 5px 10px;
-  width: 33%;
-  flex-direction: inherit;
-  text-align: center;
-  justify-content: center;
+  width: 27%;
+
+  
 }
 .boton img {
-  width: 47%;
+  width: 64%;
   height: 10vh;
+  position: relative;
+  right: 4px;
 }
 
 .botonVolver {
@@ -174,8 +175,8 @@ width: inherit;
 .boton:hover,
 .botonTrivias:hover .botonSiguiente:hover {
   background-color: var(--color-white);
-  border: 1px solid var(--color-primary);
-  color: var(--color-primary);
+  border: 1px solid var(--color-secundary);
+  color: var(--color-secundary);
 }
 
 .botonTrivias {
@@ -193,6 +194,7 @@ width: inherit;
 .pregunta {
   display: block;
   font-weight: 600;
+  color: var(--color-primary);
 }
 
 .botonSiguiente {
@@ -246,4 +248,6 @@ width: inherit;
 }
 
 /*category Name */
-
+.categories{
+  padding: 183px 136px 0 0;
+}
