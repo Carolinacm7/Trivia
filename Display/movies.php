@@ -11,15 +11,12 @@
 
 <body>
   <div class="presentacion">
-    <div class="marca">
-        <h2 class="titulo__marca">DivertiCOVID</h2>
-    </div>
-    <h1 class="titulo">Novelas</h1>
+    <h1 class="titulo">Peliculas Disney</h1>
     <div class="cronometro"  id="cronometro"></div>
-    <div id="pregunta" class="peliculas"></div>
+    <div id="pregunta" class="pregunta"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
   </div>
-    <script type="text/javascript" src="../js/movies.js"> </script>
+    <script type="text/javascript" src="../js/movies.js"></script>
 </body>
 
 </html>
