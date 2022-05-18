@@ -13,7 +13,7 @@ const preguntas = [
       pregunta: "Hace mucho tiempo, el mundo estaba lleno de maravillas. Fue aventurero. Fue emocionante. Y, sobre todo, había magia.",
       respuestas: ["Unidos (Onward)", "Aladin", "Desendientes", "Narnia"],
       correcta: 0
-    }
+    },
   ];
   
   let indice_aleatorio = 0;
@@ -84,7 +84,7 @@ const preguntas = [
           preguntas.splice(indice_aleatorio, 1);
   
       } else {
-          window.location.href = "../vista/resultados.php";
+          window.location.href = "../display/result.php";
       }
   }
   

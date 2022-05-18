@@ -89,7 +89,7 @@ function loadQuestions() {
         preguntas.splice(indice_aleatorio, 1);
 
     } else {
-        window.location.href = "resultados.php";
+        window.location.href = "result.php";
     }
 }
 
