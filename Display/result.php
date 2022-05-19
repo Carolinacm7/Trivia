@@ -9,21 +9,23 @@
 
 <body>
   <div class="presentacion">
-      <div class="container">
-        <h1 class="puntajeTitulo" >Tu puntaje es: </h1>
+    <img class="img_genius" src="../resources/img/ginius-back.png">
+    <div class="container categories">
+
+      <h1 class="puntajeTitulo">Tu puntaje es: </h1>
       <div id="SCORE" class="puntaje"></div>
       <div class="botones">
-      <a class="botonVolver" href="categories_menu.php"> Volver a Jugar
-      </a>
-      <a class="botonVolver" href="../index.php"> 
-      Nuevo Usuario
-      </a>
-      <a class="botonVolver" href="answer.php"> 
-      Ver Respuestas
-      </a>
-    </div>
+        <a class="botonVolver" href="categories_menu.php"> Volver a Jugar
+        </a>
+        <a class="botonVolver" href="../index.php">
+          Nuevo Usuario
+        </a>
+        <a class="botonVolver" href="answer.php">
+          Ver Respuestas
+        </a>
       </div>
-      <img class="imgDecoracion" src="../resources/img/ginius-back.png">
+    </div>
+
   </div>
 
   <script type="text/javascript" src="../js/result.js">
