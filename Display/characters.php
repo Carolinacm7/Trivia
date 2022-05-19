@@ -8,7 +8,7 @@
 
 </head>
 <body>
-  <div class="presentacion">        
+  <div class="presentacion_categories">        
     <h1 class="titulo">Personajes</h1>
     <div class="cronometro" id="cronometro"></div>
     <div id="pregunta" class="personajes"></div>
