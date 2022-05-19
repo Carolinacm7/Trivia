@@ -10,13 +10,13 @@
 </head>
 
 <body>
-  <div class="presentacion">
+  <div class="presentacion_categories">
     <h1 class="titulo">Peliculas Disney</h1>
     <div class="cronometro"  id="cronometro"></div>
-    <div id="pregunta" class="pregunta"></div>
+    <div id="pregunta" class="peliculas"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
   </div>
-    <script type="text/javascript" src="../js/movies.js"></script>
+    <script type="text/javascript" src="../js/movies.js"> </script>
 </body>
 
 </html>
