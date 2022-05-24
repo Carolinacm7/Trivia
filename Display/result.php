@@ -10,7 +10,7 @@
 <body>
   <div class="presentacion">
     <img class="img_genius" src="../resources/img/ginius-back.png">
-    <div class="container categories">
+    <div class="container_result">
 
       <h1 class="puntajeTitulo">Tu puntaje es: </h1>
       <div id="SCORE" class="puntaje"></div>
