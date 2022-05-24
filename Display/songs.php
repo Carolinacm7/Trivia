@@ -10,7 +10,7 @@
 
 <body>
   <div class="presentacion presentacion_categories">
-    <h1 class="titulo">Canciones</h1>
+    <h1 class="titulo">Trivia de canciones Disney</h1>
     <div class="cronometro"  id="cronometro"></div>
     <div id="pregunta" class="song"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>

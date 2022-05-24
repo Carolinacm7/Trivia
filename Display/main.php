@@ -1,5 +1,5 @@
 <div class="presentacion">
-<div class="img_genius">
+<div class="img_genius_pricipal">
   <img src="./resources/img/ginius-back.png" alt="genius">
 </div>
   <div class="container_home">
@@ -9,7 +9,7 @@
       PONTE A PRUEBA...
     </p>
 
-    <input type="text" id="nombre" placeholder="Ingresa tu nombre" class="input">
+    <input type="text" id="nombre" placeholder="Ingresa tu nombre" class="input_name">
     <a href="display/categories_menu.php" id="button" class="boton">Continuar</a>
   </div>
 </div>

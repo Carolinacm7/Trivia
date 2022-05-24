@@ -15,7 +15,7 @@
     <div class="container_categories">
       <h1 class="titulo" id="saludo">Bienvenid@ </h1>
       <h1 class="titulo">Selecciona una categoria</h1>
-      <h2 class="puntos titulo">Por cada respuesta correcta obtendras 5 puntos</h2>
+      <h2 class="puntos">Por cada respuesta correcta obtendras 5 puntos</h2>
       <div class="botones">
         <a class="boton" href="movies.php"> <img class="img-category" src="../resources/img/peliculas.jpg" alt="Peliculas">Peliculas
         </a>

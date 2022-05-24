@@ -14,6 +14,7 @@
 
       <h1 class="puntajeTitulo">Tu puntaje es: </h1>
       <div id="SCORE" class="puntaje"></div>
+      <div> <img class="logo" src="../resources/img/logo-disney.png" alt="logo-disney"></div>
       <div class="botones">
         <a class="botonVolver" href="categories_menu.php"> Volver a Jugar
         </a>

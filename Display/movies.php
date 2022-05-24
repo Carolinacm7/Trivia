@@ -11,6 +11,7 @@
 
 <body>
   <div class="presentacion_categories">
+  <h1 class="titulo">Trivia de Peliculas</h1>
     <div class="cronometro" id="cronometro"></div>
     <div id="pregunta" class="peliculas"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
