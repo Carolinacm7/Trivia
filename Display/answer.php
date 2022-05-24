@@ -13,8 +13,8 @@
       <img src="../resources/img/ginius-back.png" alt="genius">
     </div>
     <div class="container_answer">
-      <h1 class="titulo" id="saludo">Bienvenido!</h1>
-      <h2>Seleccione la categoria de </h2>
+      <h1 class="titulo" id="saludo">¡¡ Bienvenido !! </h1>
+      <h2>Selecciona una categoria de </h2>
       <h2 class="puntos">Respuestas</h2>
       <div class="botones">
         <a class="boton" href="answers_songs.php"> Canciones
