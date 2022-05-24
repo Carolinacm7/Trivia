@@ -11,8 +11,7 @@
 
 <body>
   <div class="presentacion_categories">
-    <h1 class="titulo">Peliculas Disney</h1>
-    <div class="cronometro"  id="cronometro"></div>
+    <div class="cronometro" id="cronometro"></div>
     <div id="pregunta" class="peliculas"></div>
     <button class="botonSiguiente" id="siguienteTrivia">Continuar</button>
   </div>

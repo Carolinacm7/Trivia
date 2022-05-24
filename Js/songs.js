@@ -88,7 +88,7 @@ function loadQuestions() {
         preguntas.splice(indice_aleatorio, 1);
 
     } else {
-        window.location.href = "../vista/result.php";
+        window.location.href = "../display/result.php";
     }
 }
 
