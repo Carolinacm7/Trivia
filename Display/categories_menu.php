@@ -12,7 +12,7 @@
     <div class="img_genius">
       <img src="../resources/img/ginius-back.png" alt="genius">
     </div>
-    <div class="container categories">
+    <div class="container_categories">
       <h1 class="titulo" id="saludo">Bienvenid@ </h1>
       <h1 class="titulo">Selecciona una categoria</h1>
       <h2 class="puntos titulo">Por cada respuesta correcta obtendras 5 puntos</h2>
