@@ -16,14 +16,11 @@
       <div id="SCORE" class="puntaje"></div>
       <div> <img class="logo" src="../resources/img/logo-disney.png" alt="logo-disney"></div>
       <div class="botones">
-        <a class="botonVolver" href="categories_menu.php"> Volver a Jugar
-        </a>
-        <a class="botonVolver" href="../index.php">
-          Nuevo Usuario
-        </a>
-        <a class="botonVolver" href="answer.php">
-          Ver Respuestas
-        </a>
+
+        <a class="botonVolver" href="categories_menu.php"> Volver a Jugar</a>
+        <a class="botonVolver" href="../index.php"> Nuevo Usuario</a>
+        <a class="botonVolver" href="answer.php">Ver Respuestas</a>
+        
       </div>
     </div>
 

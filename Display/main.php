@@ -1,7 +1,7 @@
 <div class="presentacion">
-<div class="img_genius_pricipal">
-  <img src="./resources/img/ginius-back.png" alt="genius">
-</div>
+  <div class="img_genius_pricipal">
+    <img src="./resources/img/ginius-back.png" alt="genius">
+  </div>
   <div class="container_home">
     <h1 class="titulo">¡¡Hola!! Soy el Genio y me gustaria saber que tanto sabes del mundo magico</h1>
     <img class="logo" src="./resources/img/logo-disney.png" alt="logo-disney">

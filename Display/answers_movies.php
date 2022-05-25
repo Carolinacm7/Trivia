@@ -20,7 +20,6 @@
         "Todos los días, viajaremos a un lugar nuevo, y todas las noches, dormiremos debajo el pez. Nadie nos dirá qué hacer. Solo tú y yo ahí afuera. Libres" la pelicula es <b>Luca</b> <br>
       </p>
       <p class="question">
-
         "Tu chispa no es tu propósito. La última casilla se llena cuando estás listo para vivir" la pelicula es <b>Soul</b><br>
       </p>
       <p class="question">

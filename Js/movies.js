@@ -17,9 +17,7 @@ const preguntas = [
 ];
 
 let indice_aleatorio = 0;
-
 let pregunta_txt = "";
-
 let interval;
 
 window.onload = iniciar();
@@ -35,7 +33,6 @@ function iniciarCronometro() {
   const contador = 15, cronometroDisplay = document.getElementById("cronometro")
 
   iniciarTiempo(contador, cronometroDisplay)
-
 }
 
 function iniciarTiempo(duracion, componente) {
@@ -57,7 +54,6 @@ function iniciarTiempo(duracion, componente) {
       duracion--;
     }
   }, 1000)
-
 }
 
 function loadQuestions() {

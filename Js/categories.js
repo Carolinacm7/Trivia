@@ -3,7 +3,6 @@ function pintarNombre() {
 }
 
 pintarNombre()
-
 const temas = [
     "Canciones", "Peliculas", "Personajes"
 ]

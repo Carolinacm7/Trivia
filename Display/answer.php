@@ -17,12 +17,9 @@
       <h2>Selecciona una categoria de </h2>
       <h2 class="puntos">Respuestas</h2>
       <div class="botones">
-        <a class="boton" href="answers_songs.php"> Canciones
-        </a>
-        <a class="boton" href="answers_movies.php"> Peliculas
-        </a>
-        <a class="boton" href="answers_characters.php"> Personajes
-        </a>
+        <a class="boton" href="answers_songs.php"> Canciones</a>
+        <a class="boton" href="answers_movies.php"> Peliculas</a>
+        <a class="boton" href="answers_characters.php"> Personajes</a>
       </div>
     </div>
   </div>

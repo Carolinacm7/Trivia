@@ -1,6 +1,4 @@
 const preguntas = [
-
-
     {
         pregunta: "El pasado puede doler pero, tal y como yo lo veo, puedes: o huir de él o aprender",
         respuestas: ["Simba", "Zazú", "Rafiki", "Scar"],
@@ -16,15 +14,10 @@ const preguntas = [
         respuestas: ["Gusteau", "Collete ", "Remi", "Linguini"],
         correcta: 2
     }
-
-
-
 ];
 
 let indice_aleatorio = 0;
-
 let pregunta_txt = "";
-
 let interval;
 
 window.onload = iniciar();
@@ -36,12 +29,10 @@ function iniciar() {
     }
 }
 
-
 function iniciarCronometro() {
     const contador = 15, cronometroDisplay = document.getElementById("cronometro")
 
     iniciarTiempo(contador, cronometroDisplay)
-
 }
 
 function iniciarTiempo(duracion, componente) {
@@ -63,7 +54,6 @@ function iniciarTiempo(duracion, componente) {
             duracion--;
         }
     }, 1000)
-
 }
 
 function loadQuestions() {
