@@ -233,17 +233,24 @@ nav ul li a:hover {
 }
 
 .boton:hover,
-.botonTrivias:hover .botonSiguiente:hover {
+.botonTrivias:hover, .botonSiguiente:hover {
   background-color: var(--color-primary);
   color: white;
   border: 1px solid white
 }
 
+
 /* result */
 .container_result { padding: 187px 200px 0 0;}
 
 /* Answers */
-.container_answer {margin: 138px 96px;}
+.container_answer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 173px;
+  margin-right: 151px;
+}
 
 .puntos {
   font-size: 1rem;
