@@ -86,9 +86,7 @@ nav ul li a:hover {
   color: var(--color-white);
 }
 /*  world class*/
-.logo {
-  width: 148px;
-}
+.logo {width: 148px;}
 
 .titulo {
   color: var(--color-primary);
@@ -109,10 +107,7 @@ nav ul li a:hover {
   width: 609px;
 }
 
-
-
 /* HEADER */
-
 .wrapp {
   margin: auto;
   overflow: hidden;
@@ -171,12 +166,7 @@ nav ul li a:hover {
   width: 44%;
 }
 
-
-
-
-
 /*category  */
-
 .presentacion_categories {
   height: 100vh;
   display: flex;
@@ -250,33 +240,25 @@ nav ul li a:hover {
 }
 
 /* result */
-.container_result {
-  padding: 187px 200px 0 0;
-}
+.container_result { padding: 187px 200px 0 0;}
 
 /* Answers */
-.container_answer {
-  margin: 138px 96px;
-}
+.container_answer {margin: 138px 96px;}
 
 .puntos {
   font-size: 1rem;
   margin: 2px 0;
-
 }
 
 .question {
   color: var(--color-primary);
-  white-space: 2px;
   display: flex;
+  font-family: var(--font-family);
   flex-direction: column;
   width: 530px;
-  font-family: var(--font-family);
 }
 
-.imgDecoracion {
-  width: 180px;
-}
+.imgDecoracion {width: 180px;}
 
 .puntajeTitulo {
   color: var(--color-primary);
@@ -285,5 +267,5 @@ nav ul li a:hover {
 
 .puntaje {
   color: var(--color-secundary);
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
