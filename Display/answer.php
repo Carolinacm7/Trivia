@@ -21,8 +21,12 @@
         <a class="boton" href="answers_movies.php"> Peliculas</a>
         <a class="boton" href="answers_characters.php"> Personajes</a>
       </div>
+      <div class="logo-ans">
+        <img class="logo" src="../resources/img/logo-disney.png" alt="logo-disney">
+      </div>
     </div>
   </div>
+
 
   <script type="text/javascript" src="../js/categories.js">
   </script>
